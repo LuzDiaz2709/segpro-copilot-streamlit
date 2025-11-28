@@ -17,11 +17,10 @@ st.markdown(
     """
 )
 
-
-
+# ✅ AQUÍ SOLO VA LA URL DEL SRC, NADA MÁS
 iframe_code = """
 <iframe
-    src="<!DOCTYPE html><html><body><iframe src="https://copilotstudio.microsoft.com/environments/Default-3209b50b-b79b-43dc-9fc4-8d42c406dd61/bots/cr0ac_asistentePostVentaSegpro/webchat?__version__=2" frameborder="0" style="width: 100%; height: 100%;"></iframe></body></html>"
+    src="https://copilotstudio.microsoft.com/environments/Default-3209b50b-b79b-43dc-9fc4-8d42c406dd61/bots/cr0ac_asistentePostVentaSegpro/webchat?__version__=2"
     style="width: 100%; height: 700px; border: none;"
 ></iframe>
 """
